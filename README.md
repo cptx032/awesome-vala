@@ -80,6 +80,7 @@ A curated list of resources for Vala - A programming language using modern high 
 - [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
 - [Dino](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
+- [Tomato](https://github.com/ellie-commons/tomato) - GTK4 Libadwaita Pomodoro Timer Alternative.
 - [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
 - [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
@@ -168,6 +169,7 @@ A curated list of resources for Vala - A programming language using modern high 
 ### GUI Programming
 
 - [GTK](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
+- [Astal](https://aylur.github.io/astal/) - Desktop Widgets Creation library
 
 ### IoC and Dependency Injection
 
